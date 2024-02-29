@@ -1,0 +1,88 @@
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Daos.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Daos.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Daos.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Daos.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Negocio.dll
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Daos.dll
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Entidades.dll
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Daos.pdb
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.dll
+C:\Users\ciroc\OneDrive\Escritorio\Ciro\UTN\Programación III\Final\TifProg3\TifProg3\TifProg3\TifProg3\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\bin\Debug\Negocio.dll
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\bin\Debug\Daos.dll
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\bin\Debug\Entidades.dll
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\bin\Debug\Daos.pdb
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\obj\Debug\Negocio.dll
+C:\Users\Leand\OneDrive\Escritorio\TifProg32\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\bin\Debug\Negocio.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\bin\Debug\Daos.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\bin\Debug\Entidades.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\bin\Debug\Daos.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\bin\Debug\Negocio.dll
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\bin\Debug\Daos.dll
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\bin\Debug\Entidades.dll
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\bin\Debug\Daos.pdb
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.dll
+C:\Users\Leand\OneDrive\Escritorio\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Negocio.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Daos.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Entidades.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Daos.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.dll
+C:\Users\Administrator\Downloads\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Negocio.dll
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Daos.dll
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Entidades.dll
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Daos.pdb
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\bin\Debug\Entidades.pdb
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.dll
+C:\Users\ciroc\OneDrive\Escritorio\TifProg3\TifProg3\TifProg32\Negocio\obj\Debug\Negocio.pdb
